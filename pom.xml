@@ -22,6 +22,7 @@
       <scope>test</scope>
     </dependency>
 	<!-- Dependencias para cliente JIRA -->
+	<!-- Prueba -->
 	<dependency>
       <groupId>net.rcarz</groupId>
       <artifactId>jira-client</artifactId>
